@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Auto refresh (reload) pages, on a selected interval. NO ADs. SUPER EASY."
+   },
+   "appName": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Super Auto Refresh"
+   }
+}

@@ -1,0 +1,29 @@
+{
+   "background": {
+      "scripts": [ "js/analytics.js", "js/bg.js" ]
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "images/icon_128.png",
+      "16": "images/icon_16.png",
+      "32": "images/icon_32.png",
+      "48": "images/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoortbXTWsUux7FZq8Xzw1kl2iWjFSI+a38U2zmJa4hm2iVTVgyPzbtxmM0NbJb2jOCdxmPCHy+ut2EdA6E3Gf7HX9Wwu35cUoy85mU3nJ2/LUKoStz9M6a3HcRWRtHk8hY2Lf08GtvQW/cl+d9nvdZrb87YWFb9ehXTSGcbk85m2SpvzPMdDbLYaiFBxs+NWudanku7lbiOa/XTqx4eVw4COYEDV9JiXH+3xsCljMnUn7kyRl+q0TQKsCV/tS+fTLfK1m8GqR5xoIfroC9GsqEyxnfpV5yrrT/lV7nNuydKUE1VG4asVjwnLz0pVJlhYTTofcjtQXvRMWfzsZIu26QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "options_page": "option.html",
+   "page_action": {
+      "default_icon": {
+         "19": "images/refresh-off-19.png",
+         "38": "images/refresh-off-38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_appName__"
+   },
+   "permissions": [ "webRequestBlocking", "storage", "tabs", "browsingData", "webRequest", "webNavigation", "\u003Call_urls>", "http://*/", "https://*/" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.5.1"
+}

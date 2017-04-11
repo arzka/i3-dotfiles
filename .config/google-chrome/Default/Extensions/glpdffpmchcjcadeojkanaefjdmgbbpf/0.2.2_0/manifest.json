@@ -1,0 +1,27 @@
+{
+   "author": "Olli M. / olzi 'at' iki.fi",
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "contentscript.js" ],
+      "matches": [ "*://www.verkkokauppa.com/*", "*://www.mustaporssi.fi/*", "*://www.prisma.fi/*", "*://www.expert.fi/*", "*://www.jimms.fi/*", "*://www.gigantti.fi/*", "*://hinta.fi/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Hinta.fi -hakutoiminto suomalaisille verkkokaupoille.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxvn/waHOF7nvO9HkOopPyiP0CEELs/Hjk5wUz8kXUg2rmk34DtHhRBT1+IQnTXFu4ofpP44T3TN5cVcTb78y86pd22y9nngFDkTB60y28RjXSVpt9CFL1d4SoazJ01TGyS1R9By3PbUPAWCoJvJd6sY4ZAoAoWp0+zfXygLKPznXC+fh9kiUY9/LA7zK+uq+3nJ3EbQGTZs4UX5y5psUckrrUHF7D/UGs/TP3NTfk5NiejKTMHwXiouQhusEmzaFZp2BEEvhvr3g3V7I/h+KYyqgPGY49Fy1oUvZbRZ/J1oXJem998QwKD2W7Ikot/vqDotBy8UnDY3KiXVQrpguGQIDAQAB",
+   "manifest_version": 2,
+   "name": "Hintahaku",
+   "options_page": "options.html",
+   "permissions": [ "http://olli.wtf/*", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.2",
+   "web_accessible_resources": [ "*.png" ]
+}

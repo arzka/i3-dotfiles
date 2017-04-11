@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="panels" type="uint" value="1">
+    <property name="panel-0" type="empty">
+      <property name="position" type="string" value="p=8;x=720;y=884"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="false"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="8"/>
+        <value type="int" value="3"/>
+        <value type="int" value="9"/>
+        <value type="int" value="11"/>
+        <value type="int" value="12"/>
+        <value type="int" value="13"/>
+        <value type="int" value="15"/>
+        <value type="int" value="1"/>
+        <value type="int" value="6"/>
+        <value type="int" value="5"/>
+        <value type="int" value="2"/>
+        <value type="int" value="14"/>
+      </property>
+      <property name="role" type="string" value="xfce4-panel-12965750720"/>
+      <property name="length-adjust" type="bool" value="true"/>
+      <property name="background-style" type="uint" value="0"/>
+      <property name="size" type="uint" value="27"/>
+      <property name="mode" type="uint" value="0"/>
+      <property name="autohide-behavior" type="uint" value="0"/>
+      <property name="output-name" type="string" value="monitor-1"/>
+      <property name="background-alpha" type="uint" value="100"/>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="100"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-2" type="string" value="actions">
+      <property name="appearance" type="uint" value="0"/>
+      <property name="invert-orientation" type="bool" value="false"/>
+      <property name="items" type="array">
+        <value type="string" value="-logout-dialog"/>
+        <value type="string" value="-switch-user"/>
+        <value type="string" value="-separator"/>
+        <value type="string" value="+logout"/>
+        <value type="string" value="-lock-screen"/>
+        <value type="string" value="-hibernate"/>
+        <value type="string" value="-suspend"/>
+        <value type="string" value="-restart"/>
+        <value type="string" value="-shutdown"/>
+      </property>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="names-visible" type="array">
+        <value type="string" value="thunar"/>
+        <value type="string" value="vlc"/>
+        <value type="string" value="pnmixer"/>
+        <value type="string" value="google-chrome"/>
+        <value type="string" value="manjaro-settings-manager-daemon"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="task manager"/>
+        <value type="string" value="discord"/>
+        <value type="string" value="steam"/>
+        <value type="string" value="orage"/>
+        <value type="string" value="msm notifier"/>
+        <value type="string" value="pamac-tray"/>
+        <value type="string" value="blueman-applet"/>
+        <value type="string" value="xfce terminal"/>
+        <value type="string" value="clipman"/>
+        <value type="string" value="manjaro settings manager"/>
+        <value type="string" value="xfce4-power-manager"/>
+        <value type="string" value="pa-applet"/>
+        <value type="string" value="xnoise"/>
+        <value type="string" value="vuze"/>
+      </property>
+    </property>
+    <property name="plugin-3" type="string" value="tasklist">
+      <property name="grouping" type="uint" value="1"/>
+    </property>
+    <property name="plugin-8" type="string" value="whiskermenu"/>
+    <property name="plugin-5" type="string" value="clock">
+      <property name="timezone" type="string" value="Europe/Helsinki"/>
+      <property name="mode" type="uint" value="2"/>
+      <property name="digital-format" type="string" value="%R"/>
+    </property>
+    <property name="plugin-1" type="string" value="showdesktop"/>
+    <property name="clipman" type="empty">
+      <property name="tweaks" type="empty">
+        <property name="never-confirm-history-clear" type="bool" value="false"/>
+        <property name="inhibit" type="bool" value="false"/>
+      </property>
+    </property>
+    <property name="plugin-9" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="14867324911.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-11" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="14867325203.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-12" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="14867325414.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-13" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="14867325625.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-14" type="string" value="directorymenu">
+      <property name="base-directory" type="string" value="/home/blyat"/>
+    </property>
+    <property name="plugin-15" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="14872560851.desktop"/>
+      </property>
+    </property>
+  </property>
+  <property name="configver" type="int" value="2"/>
+</channel>

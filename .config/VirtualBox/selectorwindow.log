@@ -1,0 +1,18 @@
+VirtualBox GUI VM Selector Window 5.1.14 r112924 linux.amd64 (Jan 17 2017 14:05:09) release log
+00:00:01.674308 Log opened 2017-02-21T12:57:43.654043000Z
+00:00:01.674309 Build Type: release
+00:00:01.674310 OS Product: Linux
+00:00:01.674310 OS Release: 4.4.48-1-MANJARO
+00:00:01.674311 OS Version: #1 SMP PREEMPT Thu Feb 9 22:17:50 UTC 2017
+00:00:01.674320 DMI Product Name: System Product Name
+00:00:01.674323 DMI Product Version: System Version
+00:00:01.674342 Host RAM: 15967MB (15.5GB) total, 12721MB (12.4GB) available
+00:00:01.674344 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:01.674344 Process ID: 1988
+00:00:01.674345 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:01.674357 Qt version: 5.8.0
+00:00:01.858460 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.320408 Failed to open "/dev/vboxdrv", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:02.362558 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1052
+00:00:02.424672 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 1920x0 x 1920x1052
+00:00:02.427165 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 2 work area is actually resized to: 3840x0 x 1920x1080

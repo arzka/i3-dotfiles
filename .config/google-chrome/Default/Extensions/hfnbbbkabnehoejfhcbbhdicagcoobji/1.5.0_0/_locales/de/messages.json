@@ -1,0 +1,32 @@
+{
+   "appDesc": {
+      "message": "Sicher und frei surfen. Es ist okay!"
+   },
+   "cantunlock": {
+      "message": "Der Inhalt läßt sich leider nicht freischalten."
+   },
+   "description": {
+      "message": "OkayFreedom"
+   },
+   "error": {
+      "message": "Der VPN Server ist momentan nicht verfügbar, bitte versuche es später erneut."
+   },
+   "exceeded": {
+      "message": "Das verfügbare Traffic-Volumen wurde überschritten."
+   },
+   "expired": {
+      "message": "Die Gültigkeitsdauer der Lizenz ist abgelaufen."
+   },
+   "name": {
+      "message": "OkayFreedom"
+   },
+   "reload": {
+      "message": "Der Inhalt wurde freigeschaltet und lädt neu. Falls nicht, bitte F5 drücken!"
+   },
+   "unlocking": {
+      "message": "OkayFreedom versucht, den Inhalt freizuschalten..."
+   },
+   "usblock": {
+      "message": "OkayFreedom konnte den Inhalt nicht entsperren. Möglicherweise ist er auch in den USA gesperrt."
+   }
+}

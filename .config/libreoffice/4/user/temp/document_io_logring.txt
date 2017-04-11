@@ -1,0 +1,258 @@
+20m0(Build:1)
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1323: Locking
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1537: Storing in alien format.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1650: Medium commit.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1661: Storing is successful.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1586: successful saving.
+
+Rethrow
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1106: Begin
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1307: SaveAs/Export
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1323: Locking
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1376: Storing in own format.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1425: Save as own format.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1442: Thumbnail creation.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1456: Preserve versions.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1650: Medium commit.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1661: Storing is successful.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:3080: Storing succeeded!
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1499: storeSelf
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1106: Begin
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1192: Save
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1260: Save: Alien to Alien
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1323: Locking
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1537: Storing in alien format.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1650: Medium commit.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1661: Storing is successful.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1586: successful saving.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1499: storeSelf
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1106: Begin
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1192: Save
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1260: Save: Alien to Alien
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1323: Locking
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1537: Storing in alien format.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1650: Medium commit.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1661: Storing is successful.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1586: successful saving.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1499: storeSelf
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1106: Begin
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1192: Save
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1260: Save: Alien to Alien
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1323: Locking
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1537: Storing in alien format.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1650: Medium commit.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1661: Storing is successful.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1586: successful saving.
+
+Rethrow
+
+Rethrow
+Bad Zip File, IOException: Could not parse manifest.xml
+
+Rethrow
+
+Rethrow
+
+Rethrow
+Element does not exist and cannot be created: "current.xml"
+Rethrow
+Element does not exist and cannot be created: "sc_imagelist.xml"
+Rethrow
+Element does not exist and cannot be created: "lc_imagelist.xml"
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1499: storeSelf
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1106: Begin
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1192: Save
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1260: Save: Alien to Alien
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1323: Locking
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1537: Storing in alien format.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1650: Medium commit.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1661: Storing is successful.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1586: successful saving.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1499: storeSelf
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1106: Begin
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1192: Save
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1260: Save: Alien to Alien
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1323: Locking
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1537: Storing in alien format.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1650: Medium commit.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1661: Storing is successful.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1586: successful saving.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1499: storeSelf
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1106: Begin
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1192: Save
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1260: Save: Alien to Alien
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1323: Locking
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1537: Storing in alien format.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1650: Medium commit.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1661: Storing is successful.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1586: successful saving.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1499: storeSelf
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1106: Begin
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1192: Save
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1260: Save: Alien to Alien
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1323: Locking
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1537: Storing in alien format.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1650: Medium commit.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1661: Storing is successful.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1586: successful saving.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1499: storeSelf
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1106: Begin
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1192: Save
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1260: Save: Alien to Alien
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1323: Locking
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1537: Storing in alien format.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1650: Medium commit.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1661: Storing is successful.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1586: successful saving.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1499: storeSelf
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1106: Begin
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1192: Save
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1260: Save: Alien to Alien
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1323: Locking
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1537: Storing in alien format.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1650: Medium commit.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1661: Storing is successful.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1586: successful saving.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1499: storeSelf
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1106: Begin
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1192: Save
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1260: Save: Alien to Alien
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1323: Locking
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1537: Storing in alien format.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1650: Medium commit.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1661: Storing is successful.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1586: successful saving.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1499: storeSelf
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1106: Begin
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1192: Save
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1260: Save: Alien to Alien
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1323: Locking
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1537: Storing in alien format.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1650: Medium commit.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1661: Storing is successful.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1586: successful saving.
+
+Rethrow
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sc/source/ui/docshell/docsh.cxx:451: 
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:418: 
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objmisc.cxx:250: Resetting Error.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1499: storeSelf
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1106: Begin
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1192: Save
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1260: Save: Alien to Alien
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1323: Locking
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1537: Storing in alien format.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1650: Medium commit.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1661: Storing is successful.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1586: successful saving.
+
+Rethrow
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sc/source/ui/docshell/docsh.cxx:451: 
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:418: 
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objmisc.cxx:250: Resetting Error.
+
+Rethrow
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sc/source/ui/docshell/docsh.cxx:451: 
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:418: 
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objmisc.cxx:250: Resetting Error.
+
+Rethrow
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sc/source/ui/docshell/docsh.cxx:451: 
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:418: 
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objmisc.cxx:250: Resetting Error.
+
+Rethrow
+
+Rethrow
+Element does not exist and cannot be created: "sc_imagelist.xml"
+Rethrow
+Element does not exist and cannot be created: "current.xml"
+Rethrow
+Element does not exist and cannot be created: "lc_imagelist.xml"
+Rethrow
+
+Rethrow
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sc/source/ui/docshell/docsh.cxx:451: 
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:418: 
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objmisc.cxx:250: Resetting Error.
+
+Rethrow
+
+Rethrow
+
+Rethrow
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sc/source/ui/docshell/docsh.cxx:451: 
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:418: 
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objmisc.cxx:250: Resetting Error.
+
+Rethrow
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sc/source/ui/docshell/docsh.cxx:451: 
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:418: 
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objmisc.cxx:250: Resetting Error.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1499: storeSelf
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1106: Begin
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1192: Save
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1260: Save: Alien to Alien
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1323: Locking
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1537: Storing in alien format.
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sc/source/ui/docshell/docsh.cxx:451: 
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1669: storeToURL
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1106: Begin
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1307: SaveAs/Export
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:3099: Storing failed!
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sc/source/ui/docshell/docsh.cxx:451: 
+
+Rethrow
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:1669: storeToURL
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1106: Begin
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/objstor.cxx:1307: SaveAs/Export
+/build/libreoffice-still/src/libreoffice-5.2.5.1/sfx2/source/doc/sfxbasemodel.cxx:3099: Storing failed!

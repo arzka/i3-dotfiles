@@ -1,0 +1,142 @@
+{
+  "langcode": "cs",
+  "about": {
+    "title": "O nás"
+  },
+  "tradeoffers": {
+    "title": "Obchodní nabídky",
+    "signedout": "Steam: Byl jste odhlášen ze svého účtu. Prosím <a href='https://steamcommunity.com/login/' target='_blank'>přihlaste se</a> nebo nastavte <b>SteamAPI key</b> v nastavení",
+    "nooffers": "Nemáte žádné obchodní nabídky v tento moment",
+    "countoffers": "Máte {{NUMBERS}} obchodních nabídek",
+    "offerfrom": "Máte obchodní nabídku od {{USERNAME}}",
+    "offernoname": "Máte obchodní nabídku",
+    "confirmation": "Opravdu?",
+    "yourprice": "Vaše cena",
+    "theirprice": "Jejich cena",
+    "cancel": "Zrušit",
+    "openall": "Otevřít vše",
+    "open": "Otevřít",
+    "declineall": "Odmítnout vše",
+    "decline": "Odmítnout",
+    "quickaccept": "Rychle příjmout",
+    "quickrefuse": "Rychle odmítnout"
+  },
+  "marketgraph": {
+    "title": "Graf marketu"
+  },
+  "bookmarks": {
+    "title": "Záložky"
+  },
+  "faq": {
+    "title": "FAQ"
+  },
+  "settings": {
+    "title": "Nastavení",
+    "inventory": {
+      "title": "Inventář",
+      "buyset": "\"Koupit set\" tlačítko",
+      "quicksell": "\"Rychle prodat\" tlačítko",
+      "instantsell": "\"Okamžitý prodat\" tlačítko",
+      "selectall": "\"Vybrat vše\" tlačítko",
+      "getprice": "\"Získat cenu\" tlačítko inventáře",
+      "quickselldif": "Rozdíl rychlého prodání",
+      "listdelay": "Zpoždění mezi cenami",
+      "hidedefaultprice": "Schovat základní cenu",
+      "simpify": "Zjednodušit UI",
+      "show_float_value": "Zobrazit float",
+      "tradableinfo": "Ukázat věci, které nelze obchodovat"
+    },
+    "storeprices": {
+      "title": "Ceny",
+      "show_historical_price": "Ukázat cenu od počátku",
+      "show_current_price": "Ukázat aktuální nejnižší cenu",
+      "show_regional_price": "Ukázat regionální cenu",
+      "show_all_stores": "Získat cenu od všech obchodů",
+      "add_another_region": "Přidat"
+    },
+    "highlight": {
+      "title": "Zvýraznění itemů",
+      "wishlist_items": "Zvýraznit itemy v seznamu přání",
+      "owned_items": "Zvýraznit vlastněné itemy"
+    },
+    "listingmarket": {
+      "title": "Seznam & market",
+      "quickbuy": "\"Rychle koupit\" tlačítko",
+      "no_listings": "Počet nabídek",
+      "no_history": "Počet historie",
+      "totalrow": "Zobrazit řádek \"celkem\"",
+      "highlight": "Zvýraznit předražené"
+    },
+    "tradeoffer": {
+      "title": "Obchodní nabídka",
+      "autocheckofferprice": "Automaticky získat cenu",
+      "autodecline": "Odmítnout nedostupné nabídky",
+      "offerdelay": "Zpoždění během získávání ceny",
+      "quickaccept": "Rychle příjmout",
+      "delay": "Zpožděni",
+      "confirm": "Ukázat přijímací dialog",
+      "quickrefuse": "Rychle odmítnout",
+      "totalprice": "Ukázat celkovou cenu",
+      "custombuttons": "Vlastní tlačítka",
+      "manage": "Spravovat"
+    },
+    "friends": {
+      "title": "Žádosti o přátelství (0 = vypnuto)",
+      "ignoreinvites": "Ignorovat pozvánky pod",
+      "blockinvites": "Blokovat pozvánky pod",
+      "steamlevel": "Steam level nebo",
+      "private": "soukromé profily",
+      "total": "Dohromady",
+      "reset": "Resetovat"
+    },
+    "extprice": {
+      "title": "Externí ceny",
+      "showprice": "Ukázat externí ceny",
+      "masslisting": "Použít pro výpisy",
+      "bgcolor": "Barva pozadí",
+      "textcolor": "Barva textu",
+      "customprovider": "Vlastní poskytovatel cen"
+    },
+    "general": {
+      "title": "Obecné",
+      "txt_apikey": "Vložte svůj API klíč",
+      "txt_custom": "Url na vlastní zvuk",
+      "auto_currency": "Automaticky (použít měnu peněženky)",
+      "auto_language": "Automaticky (použít jazyk prohlížeče)",
+      "autogetprice": "Automaticky získat cenu",
+      "on_hover": "Hover",
+      "pricedelay": "Zpoždění získání ceny (ms)",
+      "success": "Úspěch",
+      "error": "Chyba",
+      "displaynof": "Zobrazit oznámení",
+      "offers": "Obchodní nabídky",
+      "friends": "Žádosti o přátelství",
+      "comments": "Komentáře",
+      "nofsound": "Zvuk oznámení",
+      "nofsound_vol": "Hlasitost zvuku",
+      "displayvector": "Zobrazit vektorovou cenu",
+      "show_permalink": "Zobrazit permalink profilu",
+      "show_streamlink": "Zobrazit odkazy na Youtube a Twitch",
+      "showsteamrep": "Zobrazit Steamrep",
+      "hidebanner": "Schovat sponzorni banner",
+      "bookmarks": "Záložky",
+      "ck_show": "Ukázat",
+      "manage": "Spravovat kategorie",
+      "clear": "Vymazat záložky",
+      "apikey": "Steam API klíč",
+      "get_apikey": "Získejte svůj API klíč",
+      "currency": "Měna",
+      "language": "Jazyk"
+    },
+    "default": "Výchozí",
+    "defaultreset": "Resetovat na výchozí",
+    "note": "Obnovte stránku, aby se nastavení uložila"
+  },
+  "newupdate": {
+    "updated_to": "byl aktualizován na verzi",
+    "last_changes": "Poslední změny",
+    "view_changes": "Klikněte zde pro všechny změny",
+    "skip": "přeskočit",
+    "or": "nebo"
+  }
+}

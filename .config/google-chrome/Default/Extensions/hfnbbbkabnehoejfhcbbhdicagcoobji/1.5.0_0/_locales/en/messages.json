@@ -1,0 +1,32 @@
+{
+   "appDesc": {
+      "message": "Browse freely and securely. It’s okay!"
+   },
+   "cantunlock": {
+      "message": "Sorry, OkayFreedom was not able to unblock this content."
+   },
+   "description": {
+      "message": "OkayFreedom"
+   },
+   "error": {
+      "message": "Could not connect to the VPN server. Please try again."
+   },
+   "exceeded": {
+      "message": "The available traffic volume has been exceeded."
+   },
+   "expired": {
+      "message": "The validity of the licence has expired."
+   },
+   "name": {
+      "message": "OkayFreedom"
+   },
+   "reload": {
+      "message": "The content has been unblocked and will reload momentarily. If not, hit F5!"
+   },
+   "unlocking": {
+      "message": "OkayFreedom tries to unblock the content..."
+   },
+   "usblock": {
+      "message": "Sorry, OkayFreedom was not able to unblock this content. Maybe it is also blocked in the US."
+   }
+}

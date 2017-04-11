@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "讓你以最輕鬆漂亮的方式定時自動重新整理刷新頁面，完全無廣告。"
+   },
+   "appName": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "定時自動重新整理頁面"
+   }
+}

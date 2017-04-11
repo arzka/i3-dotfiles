@@ -1,0 +1,148 @@
+﻿{
+  "langcode": "en",
+  "about": {
+    "title": "About"
+  },
+  "tradeoffers": {
+    "title": "Trade offers",
+    "signedout": "Steam: You have been signed out of your account. Please <a href='https://steamcommunity.com/login/' target='_blank'>sign in</a> or set <b>SteamAPI key</b> in Settings",
+    "nooffers": "You have no incoming trade offers at this time",
+    "countoffers": "You have {{NUMBERS}} trade offer(s)",
+    "offerfrom": "You have offer from {{USERNAME}}",
+    "offernoname": "You have offer",
+    "confirmation": "Are you sure?",
+    "yourprice": "Your price",
+    "theirprice": "Their price",
+    "cancel": "Cancel",
+    "openall": "Open all",
+    "open": "Open",
+    "declineall": "Decline all",
+    "decline": "Decline",
+    "quickaccept": "Quick accept",
+    "quickrefuse": "Quick refuse",
+    "csmoney": "CS.MONEY | CS:GO Trading Bot - Fast exchange your skins",
+    "payskins": "Pay by skins",
+    "buyskins": "Buy skins",
+    "sellskins": "Sell skins",
+    "giveaway": "Giveaway"
+  },
+  "marketgraph": {
+    "title": "Market graph"
+  },
+  "bookmarks": {
+    "title": "Bookmarks"
+  },
+  "faq": {
+    "title": "FAQ"
+  },
+  "settings": {
+    "title": "Settings",
+    "inventory": {
+      "title": "Inventory",
+      "buyset": "\"Buy set\" button",
+      "quicksell": "\"Quick sell\" button",
+      "instantsell": "\"Instant sell\" button",
+      "selectall": "\"Select all\" button",
+      "getprice": "\"Inventory value\" button",
+      "quickselldif": "Quick sell dif",
+      "listdelay": "Delay between listings",
+      "hidedefaultprice": "Hide default price info",
+      "simpify": "Simplify UI",
+      "show_float_value": "Show float value",
+      "tradableinfo": "Show summary of non tradable items"
+    },
+    "storeprices": {
+      "title": "Store prices",
+      "show_historical_price": "Show lowest price of all time",
+      "show_current_price": "Show actual lowest price",
+      "show_regional_price": "Show regional price",
+      "show_all_stores": "Get prices from all stores",
+      "add_another_region": "Add"
+    },
+    "highlight": {
+      "title": "Highlight Store items",
+      "wishlist_items": "Highlight items in wishlist",
+      "owned_items": "Highlight owned items"
+    },
+    "listingmarket": {
+      "title": "Listing & market",
+      "quickbuy": "\"Quick buy\" button",
+      "no_mylistings": "Number of my sell listings",
+      "no_listings": "Number of listings",
+      "no_history": "History page size",
+      "totalrow": "Total row",
+      "highlight": "Highlight overpriced"
+    },
+    "tradeoffer": {
+      "title": "Trade offer",
+      "autocheckofferprice": "Auto get prices when offer",
+      "autodecline": "Decline unavailable offers",
+      "offerdelay": "Offer price check delay",
+      "quickaccept": "Quick accept",
+      "delay": "Delay",
+      "confirm": "show confirm dialog",
+      "quickrefuse": "Quick refuse",
+      "totalprice": "Show offer total price",
+      "custombuttons": "Custom buttons",
+      "manage": "Manage"
+    },
+    "friends": {
+      "title": "Friend requests (0 = off)",
+      "ignoreinvites": "Ignore invites below",
+      "blockinvites": "Block invites below",
+      "steamlevel": "Steam level or",
+      "private": "private",
+      "total": "Total",
+      "reset": "Reset"
+    },
+    "extprice": {
+      "title": "External prices",
+      "showprice": "Show external price",
+      "masslisting": "Use for mass listing",
+      "bgcolor": "Background color",
+      "textcolor": "Text color",
+      "customprovider": "Custom price provider"
+    },
+    "general": {
+      "title": "General",
+      "txt_apikey": "Enter your API key",
+      "txt_custom": "Url to custom sound",
+      "auto_currency": "Auto (use wallet currency)",
+      "auto_language": "Auto (use browser locale)",
+      "autogetprice": "Auto get prices",
+      "on_hover": "On hover",
+      "pricedelay": "Get price delay (ms)",
+      "success": "Success",
+      "error": "Error",
+      "displaynof": "Display notifications",
+      "offers": "Trade offers",
+      "friends": "Friend requests",
+      "comments": "Comments",
+      "nofsound": "Notification sound",
+      "nofsound_vol": "Sound volume",
+      "displayvector": "Show vector price",
+      "showsteamrep": "Show Steamrep",
+      "show_permalink": "Show profile permalink",
+      "show_streamlink": "Show links on Youtube и Twitch",
+      "hidebanner": "Hide sponsor's banners",
+      "bookmarks": "Bookmarks",
+      "ck_show": "show",
+      "manage": "Manage categories",
+      "clear": "Clear bookmarks",
+      "apikey": "Steam API key",
+      "get_apikey": "Get your key",
+      "currency": "Currency",
+      "language": "Language"
+    },
+    "default": "Default",
+    "defaultreset": "Reset to defaults",
+    "note": "You need to refresh current pages for changes to take effect"
+  },
+  "newupdate": {
+    "updated_to": "has been updated to version",
+    "last_changes": "Last changes",
+    "view_changes": "Click here to view changelogs",
+    "skip": "skip this",
+    "or": "or"
+  }
+}

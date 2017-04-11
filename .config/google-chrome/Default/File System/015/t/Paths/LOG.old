@@ -1,0 +1,4 @@
+2017/03/17-13:12:19.937 1302 Log #3: 0 ops saved to Table #4 OK
+2017/03/17-13:12:19.937 1302 Archiving /home/blyat/.config/google-chrome/Default/File System/015/t/Paths/000003.log: OK
+2017/03/17-13:12:19.937 1302 Archiving /home/blyat/.config/google-chrome/Default/File System/015/t/Paths/MANIFEST-000001: OK
+2017/03/17-13:12:20.175 1302 **** Repaired leveldb /home/blyat/.config/google-chrome/Default/File System/015/t/Paths; recovered 0 files; 0 bytes. Some data may have been lost. ****

@@ -1,0 +1,43 @@
+[Default Applications]
+application/pdf=qpdfview.desktop
+text/plain=mousepad.desktop
+image/jpeg=viewnior.desktop
+application/xml=mousepad.desktop
+image/png=viewnior.desktop
+image/gif=viewnior.desktop
+video/x-ms-wmv=vlc.desktop
+video/mp4=vlc.desktop
+video/x-flv=vlc.desktop
+video/ogg=vlc.desktop
+video/x-ogm+ogg=vlc.desktop
+video/x-theora+ogg=vlc.desktop
+application/x-cd-image=open-fuse-iso.desktop
+application/x-raw-disk-image=open-fuse-iso.desktop
+application/vnd.ms-excel=libreoffice-calc.desktop
+
+[Added Associations]
+application/pdf=qpdfview.desktop;
+application/octet-stream=mousepad.desktop;
+application/x-gettext-translation=mousepad.desktop;
+application/x-wine-extension-ini=mousepad.desktop;
+image/gif=viewnior.desktop;gimp.desktop;
+application/vnd.debian.binary-package=engrampa.desktop;
+application/x-shellscript=mousepad.desktop;
+text/x-chdr=mousepad.desktop;
+text/x-c++src=wine-extension-txt.desktop;mousepad.desktop;
+application/x-object=mousepad.desktop;
+image/jpeg=viewnior.desktop;gimp.desktop;
+application/x-compressed-tar=engrampa.desktop;
+image/png=viewnior.desktop;
+application/x-ms-dos-executable=wine.desktop;engrampa.desktop;
+text/plain=mousepad.desktop;wine-extension-txt.desktop;
+text/html=google-chrome.desktop;mousepad.desktop;wine-extension-txt.desktop;org.gnome.gedit.desktop;wine-extension-htm.desktop;
+text/markdown=mousepad.desktop;
+text/css=mousepad.desktop;wine-extension-txt.desktop;
+application/zip=engrampa.desktop;
+application/javascript=mousepad.desktop;
+video/mp4=vlc.desktop;
+audio/mpeg=mpv.desktop;
+application/vnd.ms-excel=userapp-Data Composition-JDCGXY.desktop;libreoffice-calc.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;userapp-Data Composition-JDCGXY.desktop;
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice-calc.desktop;

@@ -1,0 +1,27 @@
+{
+   "background": {
+      "scripts": [ "external/parseuri.js", "framework/common.js", "framework/prefs.js", "framework/remoteConfig.js", "okayfreedom/background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "okayfreedom/docload.js", "external/parseuri.js", "framework/common.js", "okayfreedom/injection.js" ],
+      "matches": [ "http://*/*", "https://*/*", "ftp://*/*", "file://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "homepage_url": "https://www.okayfreedom.com/",
+   "icons": {
+      "128": "logo128.png",
+      "16": "logo16.png",
+      "48": "logo48.png",
+      "96": "logo96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlkOZ/sU2SBcjdN6wAgnl5BE7wYqz1yd983WFZpoUASYny1cauCjQdIV8cxRCUVVwUYJFr6FI3BHvoIU01yFH6OkHclIO/14gtHWA5R8bBkA7gDMaA8Uc3nXXhNFSHUD8BCXV6dqG/odsGpeECASMjFh0wHRp54HAxGWHNfpONnxeiU1FrV8Mzd7FQZM0sbeHPI9F9TI4c/uAipdk7/KLrvNhwCiWBV5Dl1Y11FabVi4xrryDxiJyc4FnvHbCQ7v9OqC+slxjN+A2JzTc6DI6W9Z57+t7Q1bfdgzTnT8KIc5BPUn5tNZApchXEnYZbMtCbY78+vdfwWjlLUQPYwDvgwIDAQAB",
+   "manifest_version": 2,
+   "name": "OkayFreedom",
+   "permissions": [ "tabs", "http://*/*", "https://*/*", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5.0",
+   "web_accessible_resources": [ "web/ciuvo.js", "web/libs/ciuvo-addon-sdk.min.js", "web/libs/jquery.min.js", "web/leaderboard.html", "web/leaderboard.js", "web/leaderboard.css", "web/text.js", "web/textresource.js", "web/images/leaderboard_left.png", "web/images/logo.png", "web/images/logo.png", "web/images/en/productlabel.png", "web/images/de/productlabel.png", "web/images/icon-help.png", "web/images/icon-close.png", "web/images/icon-buy.png", "img/error.png", "img/ok_logo_big_none.png", "img/rainbow.png", "img/ring.png", "img/spinner.png" ]
+}

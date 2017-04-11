@@ -1,0 +1,37 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "lib/jQuery-3.1.1.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "icons/icon19.png",
+         "38": "icons/icon38.png"
+      },
+      "default_title": "DO IT"
+   },
+   "commands": {
+      "toggle-shia": {
+         "description": "Show Shia LaBeouf on web page",
+         "suggested_key": {
+            "default": "Ctrl+Shift+S",
+            "mac": "Command+Shift+S"
+         }
+      }
+   },
+   "content_security_policy": "default-src 'self' 'unsafe-eval';object-src 'self';connect-src *;img-src *;media-src *;style-src *;script-src 'self' 'unsafe-eval';",
+   "default_locale": "en",
+   "description": "Add Shia LaBeouf on web pages! Shia LaBeouf delivers the most intense motivational speech of all-time! With Ctrl+Shift+S hotkey!",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjO7kcWn2zYwAkeWSE9kG4JYdraGWV3A3xmRGv6YBzSwgCsLCIingqcD8jdi8vdC4o+3cJQwlkn67oKOzuOXGEaZnJzZE26oKyvGVco64Cxv/m6TOFUNEfEg820EocZGeN7eHpwnPKvpFAMwuDVms6/ZjKi1+BYivRFNeddolWL+7fLhnYI9/tHEeb/akS3n6kriVnicFEJaHyEjnz9jv7RbbiC/CVmO4O7Pv2QElNZMa3WbvY1rEVq3jbzNLmmFW0mGdIMPjv9FtA0aQ3Rebrh7NlwklaCmJBjxxJwsfuONRGDmXADs38hhzqk4n4qfW/QRhjew2HtFKUIkZ9Bph6wIDAQAB",
+   "manifest_version": 2,
+   "name": "DO IT!",
+   "permissions": [ "activeTab", "tabs", "http://*/*", "https://*/*", "webRequest", "webRequestBlocking", "webNavigation", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.7",
+   "web_accessible_resources": [ "media/*" ]
+}

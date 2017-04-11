@@ -1,0 +1,19 @@
+{
+   "content_scripts": [ {
+      "js": [ "jquery.js", "csgolounge.js" ],
+      "matches": [ "*://*.csgolounge.com/mytrades*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Auto-Bumps your CS:GO Lounge trades",
+   "icons": {
+      "128": "128.png",
+      "16": "16.png",
+      "36": "36.png",
+      "48": "48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk9HxeByXBsXyYUV9RcJ20dv7aOHZeMYqK87dR6wmTwphvndAoVeBJQJ7d1ysGTDVhEEsdwHWyBowfvBd+1v8KlWci6IErCkLfSZxb6bGTOzBjl2yUQVy9tE5GftcwLH+wmeSQ3N8JLpnMCuHunLIlP2hz9JiFImtRtky++3kEbZFZdydYFqZirQOK1VUD8mW9/t6frRKoyvzdqxRRE5KXS7+29vCojTWMFm9zmZppVH98+pzs/o9jFkYWVpTqHOrd8D24SIzpHoVr9NWl0fOyawV5o67nL3hSEfTrSEVVSwM2MAtQcfUggufeOZgfdsvnTYFZTtDSTPpo+qJwGa1kQIDAQAB",
+   "manifest_version": 2,
+   "name": "CS:GO Lounge Bump Bot",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.1"
+}

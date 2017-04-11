@@ -1,0 +1,37 @@
+VirtualBox XPCOM Server 5.1.14 r112924 linux.amd64 (Jan 17 2017 14:05:09) release log
+00:00:00.039253 main     Log opened 2017-02-21T12:57:43.012306000Z
+00:00:00.039255 main     Build Type: release
+00:00:00.039257 main     OS Product: Linux
+00:00:00.039258 main     OS Release: 4.4.48-1-MANJARO
+00:00:00.039258 main     OS Version: #1 SMP PREEMPT Thu Feb 9 22:17:50 UTC 2017
+00:00:00.039272 main     DMI Product Name: System Product Name
+00:00:00.039277 main     DMI Product Version: System Version
+00:00:00.039298 main     Host RAM: 15967MB (15.5GB) total, 12723MB (12.4GB) available
+00:00:00.039301 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.039301 main     Process ID: 2009
+00:00:00.039302 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.040106 main     IPC socket path: /tmp/.vbox-blyat-ipc/ipcd
+00:00:00.212632 nspr-2   VirtualBox: object creation starts
+00:00:00.214540 nspr-2   Home directory: '/home/blyat/.config/VirtualBox'
+00:00:00.227507 nspr-2   Loading settings file "/home/blyat/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.267855 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp4s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.292383 nspr-2   NAT: resolv.conf: nameserver 192.168.10.1
+00:00:00.292394 nspr-2   NAT: resolv.conf: FIXME: ignoring IPv6 zone %wlp4s0
+00:00:00.292396 nspr-2   NAT: resolv.conf: nameserver fe80::3af8:89ff:fead:4a1c
+00:00:00.292401 nspr-2   HostDnsMonitor: old information
+00:00:00.292402 nspr-2     no server entries
+00:00:00.292404 nspr-2     no domain set
+00:00:00.292405 nspr-2     no search string entries
+00:00:00.292406 nspr-2   HostDnsMonitor: new information
+00:00:00.292406 nspr-2     server 1: 192.168.10.1
+00:00:00.292408 nspr-2     server 2: fe80::3af8:89ff:fead:4a1c%wlp4s0
+00:00:00.292409 nspr-2     no domain set
+00:00:00.292410 nspr-2     no search string entries
+00:00:00.292413 nspr-2   HostDnsMonitorProxy::notify
+00:00:00.411515 nspr-2   VD: VDInit finished
+00:00:00.429091 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={0eb668d2-495e-5a36-8890-29999b5f030c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.431071 nspr-2   VirtualBox: object created
+00:00:08.993953 main     VirtualBox: object deletion starts
+00:00:09.432481 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd945} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:13.994199 main     {00007f7b7c0129e0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:13.994404 main     VirtualBox: object deleted

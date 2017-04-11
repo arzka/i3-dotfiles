@@ -1,0 +1,23 @@
+2017/04/11-22:34:31.251 1348 Reusing MANIFEST /home/blyat/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2017/04/11-22:34:31.252 1348 Recovering log #1098
+2017/04/11-22:34:31.316 1348 Reusing old log /home/blyat/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/001098.log 
+2017/04/11-22:35:29.814 3498 Level-0 table #1104: started
+2017/04/11-22:35:29.931 3498 Level-0 table #1104: 2427637 bytes OK
+2017/04/11-22:35:30.014 3498 Delete type=0 #1098
+2017/04/11-22:35:30.957 3498 Level-0 table #1106: started
+2017/04/11-22:35:31.070 3498 Level-0 table #1106: 2427587 bytes OK
+2017/04/11-22:35:31.112 3498 Delete type=0 #1103
+2017/04/11-22:35:34.397 3498 Level-0 table #1108: started
+2017/04/11-22:35:34.511 3498 Level-0 table #1108: 2427834 bytes OK
+2017/04/11-22:35:34.571 3498 Delete type=0 #1105
+2017/04/11-22:35:34.573 3498 Compacting 4@0 + 2@1 files
+2017/04/11-22:35:34.739 3498 Generated table #1109@0: 1 keys, 2427834 bytes
+2017/04/11-22:35:34.781 3498 Generated table #1110@0: 3 keys, 371 bytes
+2017/04/11-22:35:34.781 3498 Compacted 4@0 + 2@1 files => 2428205 bytes
+2017/04/11-22:35:34.840 3498 compacted to: files[ 0 2 1 0 0 0 0 ]
+2017/04/11-22:35:34.841 3498 Delete type=2 #1099
+2017/04/11-22:35:34.858 3498 Delete type=2 #1108
+2017/04/11-22:35:34.859 3498 Delete type=2 #1100
+2017/04/11-22:35:34.860 3498 Delete type=2 #1101
+2017/04/11-22:35:34.860 3498 Delete type=2 #1104
+2017/04/11-22:35:34.861 3498 Delete type=2 #1106
